@@ -4,7 +4,7 @@
         <description><![CDATA[ingeniousgeeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 04:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 04:53:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,20 @@
             <link>https://ingeniousgeeks.mykajabi.com/blog/cylance-the-game-changing-artifical-intelligent-security-software</link>
             <guid isPermaLink="false">e28bca1e-7ced-4d6f-a16d-faee2c0551b9</guid>
             <pubDate>Sat, 04 Jun 2016 04:00:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middle class workers are losing their jobs to robots | News | Geek.com]]></title>
+            <description><![CDATA[<article><h1>Middle class workers are losing their jobs to robots | News | Geek.com</h1><p>It's a headline that is all too familiar these days. As the world of automation grows and workers are being replaced by robots in factories, farming, and even food service - the concern of what to do with this displaced workforce is becoming a leading topic among economists as well as world and business leaders.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20956be5c508c908baff3b1c72cbebf63beec8fc.jpg"></article>]]></description>
+            <link>http://www.geek.com/news/middle-class-workers-are-losing-their-jobs-to-robots-1654097/</link>
+            <guid isPermaLink="false">52b9efca-7cdf-4b01-9215-38ca6c8fc644</guid>
+            <pubDate>Sat, 04 Jun 2016 04:53:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft warns free Windows 10 upgrades will end, after that it's $119 | Microsoft | Geek.com]]></title>
+            <description><![CDATA[<article><h1>Microsoft warns free Windows 10 upgrades will end, after that it's $119 | Microsoft | Geek.com</h1><p>Quick, someone call the meteorologist that had her forecast interrupted by a Windows 10 nag screen! She's running out of time to get that upgrade done. Microsoft published a blog post today trumpeting the total number of Windows 10 installs so far.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffd52b92348592a6b50073c3ee16ebfe333c57ef.jpg"></article>]]></description>
+            <link>http://www.geek.com/microsoft/microsoft-warns-free-windows-10-upgrades-will-end-after-that-its-119-1654236/</link>
+            <guid isPermaLink="false">ea395e1a-8b75-472b-98d5-41a4b48e1448</guid>
+            <pubDate>Sat, 04 Jun 2016 04:53:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Facebook Unveils DeepText: An AI With 'Near-Human' Level Of Language And Context Comprehension]]></title>
@@ -61,20 +75,6 @@
             <link>http://www.popularmechanics.com/flight/how-to/a20968/how-to-get-global-entry-tsa-pre-check/</link>
             <guid isPermaLink="false">e1228646-c055-480c-b7fa-18b0d0dc2950</guid>
             <pubDate>Sat, 04 Jun 2016 04:52:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will This Augmented Reality Machine Really Replace Your PC?]]></title>
-            <description><![CDATA[<article><h1>Will This Augmented Reality Machine Really Replace Your PC?</h1><p>Among the seagulls and pelicans of Silicon Valley's Redwood Shores, there's a startup called Meta that's trying to change everything about computers and the way we use them. Put on the Meta 2 headset, and ten holographic computer screens will hover in mid-air. Press the floating Amazon.com webpage with Nike sneakers and the shoes pop out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be94f5ca027aefdf533527bcc87323c4b2c9b9e6.jpg"></article>]]></description>
-            <link>http://www.bloomberg.com/news/features/2016-05-24/will-this-artificial-reality-machine-really-replace-your-pc</link>
-            <guid isPermaLink="false">c57be469-e378-478b-b89b-1813a9d6443d</guid>
-            <pubDate>Sat, 04 Jun 2016 04:52:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anti-virus pioneer John McAfee: Your phone may be snooping on you]]></title>
-            <description><![CDATA[<article><h1>Anti-virus pioneer John McAfee: Your phone may be snooping on you</h1><p>DENVER - Computer security pioneer John McAfee pulls out his cell phone to stare at a notification on the screen. "It says something changed in my account, please press next," McAfee says. "I have the best (security) habits in the world and I cannot keep my phone secure."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bda397c89229940308fbbab5dc42adebfacc00b6.jpg"></article>]]></description>
-            <link>http://www.usatoday.com/story/tech/2016/05/11/anti-virus-pioneer-john-mcafee-warns-mobile-phone-snooping/84266838/</link>
-            <guid isPermaLink="false">ac3130f8-89e8-4568-b55f-8948b4fa06d6</guid>
-            <pubDate>Sat, 04 Jun 2016 04:52:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
