@@ -1,15 +1,15 @@
-layout_spectrum: 0.3247953159734607
-typography_spectrum: 0.06662629591301084
+layout_spectrum: 0.14222829788923264
+typography_spectrum: 0.34571305313147604
 color:
-  brandStrength: 0.24567818944342434
-  lightness: 0.38540590507909656
-  saturation: 0.6715584334451705
-  rhythmicContrast: 0.2348475910257548
+  brandStrength: 0.07638442469760776
+  lightness: 0.05053491215221584
+  saturation: 0.9299788239877671
+  rhythmicContrast: 0.5067192430142313
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
 name: ingeniousgeeks
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f588421d-64e9-4cc3-b285-bda33175cf84.gif'
