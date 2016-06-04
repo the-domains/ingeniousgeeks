@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-04T05:19:39.796Z'
+datePublished: '2016-06-04T05:19:48.643Z'
 sourcePath: >-
   _posts/2016-06-04-cylance-the-game-changing-artifical-intelligent-security-s.md
 isBasedOnUrl: >-
@@ -17,7 +17,7 @@ keywords:
   - microsoft
 related: []
 author: []
-dateModified: '2016-06-04T05:19:21.757Z'
+dateModified: '2016-06-04T05:19:48.327Z'
 title: Cylance - The game changing artifical intelligent security software
 app_links: []
 publisher:
@@ -30,7 +30,7 @@ description: >-
   computers). But we have recently created a partnership with Cylance that
   enables us to offer this amazing solution to you, today!
 inLanguage: en
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
