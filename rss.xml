@@ -4,7 +4,7 @@
         <description><![CDATA[ingeniousgeeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 04:53:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 04:53:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,20 +19,6 @@
             <link>https://ingeniousgeeks.mykajabi.com/blog/cylance-the-game-changing-artifical-intelligent-security-software</link>
             <guid isPermaLink="false">e28bca1e-7ced-4d6f-a16d-faee2c0551b9</guid>
             <pubDate>Sat, 04 Jun 2016 04:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Your Smartphone's Fingerprint Scanner Can Easily Be 'Hacked' with a Printer]]></title>
-            <description><![CDATA[<article><h1>Your Smartphone's Fingerprint Scanner Can Easily Be 'Hacked' with a Printer</h1><p>Using a fingerprint scanner to keep intruders out of your phone might not be as secure as you think. Two researchers from Michigan State University, Kai Cao and Anil K. Jain, developed a relatively cheap and effective way to beat fingerprint readers, and successfully tested their method on a Samsung Galaxy S6 and Huawei Honor 7.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c078f94d6d59d35b5bf05cac14fe3ab8993613c.jpg"></article>]]></description>
-            <link>http://smartphones.wonderhowto.com/inspiration/your-smartphones-fingerprint-scanner-can-easily-be-hacked-with-printer-0169378/</link>
-            <guid isPermaLink="false">9504f1f3-7f2b-4b96-8b1e-d8b59c83ce75</guid>
-            <pubDate>Sat, 04 Jun 2016 04:53:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google's New AI-Powered Allo Will Help You Message Better]]></title>
-            <description><![CDATA[<article><h1>Google's New AI-Powered Allo Will Help You Message Better</h1><p>At their annual I/O event, Google introduced their latest app to the public: Allo. The messaging app is the company's latest and most powerful entry into the expanding world of similar apps, with one twist-the inclusion of artificial intelligence. Allo by Google.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56a6faab9de1c318c8cf4ab185949e72f579a39c.jpg"></article>]]></description>
-            <link>http://android.wonderhowto.com/inspiration/googles-new-ai-powered-allo-will-help-you-message-better-0171189/</link>
-            <guid isPermaLink="false">011c541b-624b-448b-92ea-e94c847a9ba9</guid>
-            <pubDate>Sat, 04 Jun 2016 04:53:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This Hidden Feature Makes Your iPhone Read Books & Articles Aloud]]></title>
@@ -75,6 +61,20 @@
             <link>http://www.geek.com/chips/dells-43-inch-4k-monitor-doubles-as-four-borderless-1080p-displays-1655882/</link>
             <guid isPermaLink="false">c72cd108-6ba4-4ed3-b763-9d6793077c16</guid>
             <pubDate>Sat, 04 Jun 2016 04:53:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middle class workers are losing their jobs to robots | News | Geek.com]]></title>
+            <description><![CDATA[<article><h1>Middle class workers are losing their jobs to robots | News | Geek.com</h1><p>It's a headline that is all too familiar these days. As the world of automation grows and workers are being replaced by robots in factories, farming, and even food service - the concern of what to do with this displaced workforce is becoming a leading topic among economists as well as world and business leaders.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20956be5c508c908baff3b1c72cbebf63beec8fc.jpg"></article>]]></description>
+            <link>http://www.geek.com/news/middle-class-workers-are-losing-their-jobs-to-robots-1654097/</link>
+            <guid isPermaLink="false">52b9efca-7cdf-4b01-9215-38ca6c8fc644</guid>
+            <pubDate>Sat, 04 Jun 2016 04:53:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft warns free Windows 10 upgrades will end, after that it's $119 | Microsoft | Geek.com]]></title>
+            <description><![CDATA[<article><h1>Microsoft warns free Windows 10 upgrades will end, after that it's $119 | Microsoft | Geek.com</h1><p>Quick, someone call the meteorologist that had her forecast interrupted by a Windows 10 nag screen! She's running out of time to get that upgrade done. Microsoft published a blog post today trumpeting the total number of Windows 10 installs so far.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffd52b92348592a6b50073c3ee16ebfe333c57ef.jpg"></article>]]></description>
+            <link>http://www.geek.com/microsoft/microsoft-warns-free-windows-10-upgrades-will-end-after-that-its-119-1654236/</link>
+            <guid isPermaLink="false">ea395e1a-8b75-472b-98d5-41a4b48e1448</guid>
+            <pubDate>Sat, 04 Jun 2016 04:53:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
