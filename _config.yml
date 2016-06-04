@@ -1,0 +1,14 @@
+layout_spectrum: 0.3322620566468686
+typography_spectrum: 0.7428660548757762
+color:
+  brandStrength: 0.8371289786882699
+  lightness: 0.6165357737336308
+  saturation: 0.2909454251639545
+  rhythmicContrast: 0.8057704619131982
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: ingeniousgeeks
