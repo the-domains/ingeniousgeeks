@@ -4,7 +4,7 @@
         <description><![CDATA[ingeniousgeeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 04:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 04:35:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://ingeniousgeeks.mykajabi.com/blog/cylance-the-game-changing-artifical-intelligent-security-software</link>
             <guid isPermaLink="false">e28bca1e-7ced-4d6f-a16d-faee2c0551b9</guid>
             <pubDate>Sat, 04 Jun 2016 04:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Valkyrie House Old-Fashioned Recipe]]></title>
-            <description><![CDATA[<article><h1>Valkyrie House Old-Fashioned Recipe</h1><p>This recipe is by Robert Simonson. Tell us what you think of it at The New York Times - Dining - Food.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4195654f327d207edb79fc38ad4ad8e4e86341e.jpg"></article>]]></description>
-            <link>http://cooking.nytimes.com/recipes/1017994-valkyrie-house-old-fashioned</link>
-            <guid isPermaLink="false">57866e58-c3aa-4ba6-8211-4b690c4faf14</guid>
-            <pubDate>Sat, 04 Jun 2016 02:47:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
