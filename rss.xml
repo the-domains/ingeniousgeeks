@@ -4,7 +4,7 @@
         <description><![CDATA[ingeniousgeeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 04:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 04:53:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://ingeniousgeeks.mykajabi.com/blog/cylance-the-game-changing-artifical-intelligent-security-software</link>
             <guid isPermaLink="false">e28bca1e-7ced-4d6f-a16d-faee2c0551b9</guid>
             <pubDate>Sat, 04 Jun 2016 04:00:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Mac OS X remediation offering and forensics capabilities for enterprise]]></title>
+            <description><![CDATA[<article><h1>New Mac OS X remediation offering and forensics capabilities for enterprise</h1><p>At Malwarebytes, our mission is to protect consumers and businesses from the most dangerous cyber threats. Today, we announced a new solution that will dramatically change endpoint detection and response (EDR) for Mac users - a growing target area for hackers. The fact that Mac users are safe from cyber threats is a common misconception.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/017fd8f7b7548297c59d0e0ca18a470da90a56a8.png"></article>]]></description>
+            <link>https://blog.malwarebytes.org/malwarebytes-news/2016/05/new-mac-os-x-remediation-offering-and-forensics-capabilities-for-enterprise/</link>
+            <guid isPermaLink="false">6681df6d-b230-497d-a4b1-73614762ebf5</guid>
+            <pubDate>Sat, 04 Jun 2016 04:53:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tech Support Scammers using Winlogon]]></title>
@@ -68,13 +75,6 @@
             <link>http://well.blogs.nytimes.com/2016/05/30/computer-vision-syndrome-affects-millions/?rref=collection%2Fsectioncollection%2Fhealth&amp;action=click&amp;contentCollection=health&amp;region=rank&amp;module=package&amp;version=highlights&amp;contentPlacement=1&amp;pgtype=sectionfront</link>
             <guid isPermaLink="false">8bf3189b-7543-4f5d-b4fe-0ec59eef2054</guid>
             <pubDate>Sat, 04 Jun 2016 04:52:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The betrayal of our boys]]></title>
-            <description><![CDATA[<article><h1>The betrayal of our boys</h1><p>In every respect, today's girls seem to have the advantage over boys Sarah Vine discusses why today's boys are being left behind Report says girls have 35% more chance of going into higher education The numbers are unequivocal. In every respect, today's girls seem to have the advantage over boys.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc64760795ec36d21b8204275b7c9bff190f51b0.jpg"></article>]]></description>
-            <link>http://www.dailymail.co.uk/femail/article-3609832/The-betrayal-boys-falling-girls-way-says-SARAH-VINE-feminisation-society-especially-schools-blame.html#ixzz49lDyoveq</link>
-            <guid isPermaLink="false">735e17d4-cfc6-4a64-98b9-9c4117e1da02</guid>
-            <pubDate>Sat, 04 Jun 2016 04:52:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
