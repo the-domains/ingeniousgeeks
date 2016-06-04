@@ -1,4 +1,3 @@
-layout_spectrum: 0.14222829788923264
 typography_spectrum: 0.34571305313147604
 color:
   brandStrength: 0.07638442469760776
@@ -11,5 +10,7 @@ color:
     - '#CC4452'
     - '#723147'
     - '#31152B'
-name: ingeniousgeeks
+layout_spectrum: 0.14222829788923264
 logo: null
+name: ingeniousgeeks
+favicon: null
