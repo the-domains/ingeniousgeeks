@@ -31,8 +31,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.theverge.com/circuitbreaker/2016/5/19/11713428/pilot-smart-earpiece-translator-waverly-labs
 title: This real-time translation earpiece may or may not help you woo foreign cuties
-datePublished: '2016-06-04T04:36:21.600Z'
-dateModified: '2016-06-04T04:36:17.140Z'
+datePublished: '2016-06-04T04:37:23.000Z'
+dateModified: '2016-06-04T04:36:59.141Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-04-this-real-time-translation-earpiece-may-or-may-not-help-you.md
