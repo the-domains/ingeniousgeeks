@@ -4,8 +4,15 @@
         <description><![CDATA[ingeniousgeeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 05:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 01:23:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cylance - The game changing artifical intelligent security software]]></title>
+            <description><![CDATA[<article><h1>Cylance - The game changing artifical intelligent security software</h1><p>The company is currently focusing on enterprise level networks (500+ computers). But we have recently created a partnership with Cylance that enables us to offer this amazing solution to you, today!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38a1363b-5683-42b4-8244-58b7f382b4d1.jpg"></article>]]></description>
+            <link>https://ingeniousgeeks.mykajabi.com/blog/cylance-the-game-changing-artifical-intelligent-security-software</link>
+            <guid isPermaLink="false">e28bca1e-7ced-4d6f-a16d-faee2c0551b9</guid>
+            <pubDate>Sat, 04 Jun 2016 05:20:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb1ec3d5-f91f-4cc6-b69b-b123ba794185.png">]]></description>
@@ -14,11 +21,11 @@
             <pubDate>Sat, 04 Jun 2016 04:00:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cylance - The game changing artifical intelligent security software]]></title>
-            <description><![CDATA[<article><h1>Cylance - The game changing artifical intelligent security software</h1><p>The company is currently focusing on enterprise level networks (500+ computers). But we have recently created a partnership with Cylance that enables us to offer this amazing solution to you, today!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38a1363b-5683-42b4-8244-58b7f382b4d1.jpg"></article>]]></description>
-            <link>https://ingeniousgeeks.mykajabi.com/blog/cylance-the-game-changing-artifical-intelligent-security-software</link>
-            <guid isPermaLink="false">e28bca1e-7ced-4d6f-a16d-faee2c0551b9</guid>
-            <pubDate>Sat, 04 Jun 2016 05:19:48 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fb2a4dd-a81d-4483-8bc9-a744c51431b5.png">]]></description>
+            <link>https://thegrid.ai/ingeniousgeeks/f59be6c7-eb74-42a2-83fc-0051f5f306b6/index.html</link>
+            <guid isPermaLink="false">f59be6c7-eb74-42a2-83fc-0051f5f306b6</guid>
+            <pubDate>Tue, 02 Aug 2016 01:22:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Easy Trick to Fixing App Store Problems on Your iPhone]]></title>
@@ -68,13 +75,6 @@
             <link>https://blog.malwarebytes.org/cybercrime/2016/05/tech-support-scammers-using-winlogon/</link>
             <guid isPermaLink="false">8a057510-56bc-4dae-905a-f7ea3e014662</guid>
             <pubDate>Sat, 04 Jun 2016 04:53:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to tell if you're infected with malware]]></title>
-            <description><![CDATA[<article><h1>How to tell if you're infected with malware</h1><p>Picture this: you start your computer and wait. And wait. And wait some more. When your desktop finally shows its face, things don't get any better. Your Internet is sluggish, your programs are taking forever to load, and your cursor is dragging 20 seconds behind your mouse.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/609dc0e63c07624107a6ff0c5860dc3a57a25aa0.jpg"></article>]]></description>
-            <link>https://blog.malwarebytes.org/101/2016/05/how-to-tell-if-youre-infected-with-malware/</link>
-            <guid isPermaLink="false">eb5cdbae-3745-477b-abcc-37ce34beb4d8</guid>
-            <pubDate>Sat, 04 Jun 2016 04:53:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
