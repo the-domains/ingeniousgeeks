@@ -1,16 +1,29 @@
+name: ingeniousgeeks
+favicon: null
+layout_spectrum: 0.14222829788923264
 typography_spectrum: 0.34571305313147604
+logo: null
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#e3e9ea'
+    - '#5d7b8d'
+    - '#00a5de'
+    - '#345a70'
+    - '#71c5e7'
   brandStrength: 0.07638442469760776
   lightness: 0.05053491215221584
   saturation: 0.9299788239877671
   rhythmicContrast: 0.5067192430142313
-  brandColors:
-    - '#F9E4AD'
-    - '#E6B098'
-    - '#CC4452'
-    - '#723147'
-    - '#31152B'
-layout_spectrum: 0.14222829788923264
-logo: null
-name: ingeniousgeeks
-favicon: null
+purpose: []
