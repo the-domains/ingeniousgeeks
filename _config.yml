@@ -1,6 +1,6 @@
 name: Ingenious Geeks
 favicon: null
-layout_spectrum: 0.75677
+layout_spectrum: 0
 typography_spectrum: 0.50211
 logo: null
 title: Ingenious Geeks
@@ -23,7 +23,7 @@ color:
     - '#5fe900'
     - '#337200'
     - '#020001'
-  brandStrength: 0.5
+  brandStrength: 0.75
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
