@@ -1,17 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-10T21:21:38.189Z'
-dateModified: '2016-08-10T21:21:25.525Z'
+datePublished: '2016-08-10T21:45:06.201Z'
+dateModified: '2016-08-10T21:44:55.257Z'
 title: Cylance - The game changing artificial intelligent security software
 author:
   - name: ''
     url: ''
 via: {}
+sourcePath: _posts/2016-08-10-cylance-the-game-changing-artificial-intelligent-security.md
 authors: []
 publisher:
   name: ''
@@ -19,7 +20,6 @@ publisher:
   url: ''
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-10-cylance-the-game-changing-artificial-intelligent-security.md
 url: cylance-the-game-changing-artificial-intelligent-security/index.html
 _type: Article
 
