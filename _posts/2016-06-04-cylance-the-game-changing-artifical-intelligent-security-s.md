@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-06-04T05:20:09.739Z'
-sourcePath: >-
-  _posts/2016-06-04-cylance-the-game-changing-artifical-intelligent-security-s.md
-isBasedOnUrl: >-
-  https://ingeniousgeeks.mykajabi.com/blog/cylance-the-game-changing-artifical-intelligent-security-software
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
 keywords:
   - antivirus
   - cylance
@@ -15,25 +14,27 @@ keywords:
   - empower
   - brag
   - microsoft
-related: []
-author: []
-dateModified: '2016-06-04T05:20:09.352Z'
-title: Cylance - The game changing artifical intelligent security software
-app_links: []
-publisher:
-  url: 'https://ingeniousgeeks.mykajabi.com'
-  name: Mykajabi
-  favicon: null
-  domain: ingeniousgeeks.mykajabi.com
 description: >-
   The company is currently focusing on enterprise level networks (500+
   computers). But we have recently created a partnership with Cylance that
   enables us to offer this amazing solution to you, today!
-inLanguage: en
+datePublished: '2016-08-10T17:10:23.830Z'
+dateModified: '2016-08-10T03:59:26.066Z'
+sourcePath: >-
+  _posts/2016-06-04-cylance-the-game-changing-artifical-intelligent-security-s.md
+related: []
+author: []
+title: Cylance - The game changing artifical intelligent security software
+app_links: []
+via: {}
+authors: []
+publisher:
+  name: Mykajabi
+  domain: ingeniousgeeks.mykajabi.com
+  url: 'https://ingeniousgeeks.mykajabi.com'
+  favicon: null
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
+url: cylance-the-game-changing-artifical-intelligent-security-s/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
