@@ -1,7 +1,7 @@
 name: Ingenious Geeks
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.34571305313147604
+layout_spectrum: 0.75677
+typography_spectrum: 0.50211
 logo: null
 title: Ingenious Geeks
 cta:
@@ -18,11 +18,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#e3e8e9'
-    - '#5c7a8a'
-    - '#365a70'
-    - '#15a8dc'
-    - '#62c1e4'
+    - '#529b0e'
+    - '#0c0c0e'
+    - '#fefdfb'
+    - '#00678f'
+    - '#ac4cb8'
   brandStrength: 0.1875
   lightness: 0.375
   saturation: 0.6875
