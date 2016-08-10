@@ -20,8 +20,8 @@ description: >-
   The company is currently focusing on enterprise level networks (500+
   computers). But we have recently created a partnership with Cylance that
   enables us to offer this amazing solution to you, today!
-datePublished: '2016-08-10T20:30:11.369Z'
-dateModified: '2016-08-10T20:30:02.833Z'
+datePublished: '2016-08-10T20:30:36.980Z'
+dateModified: '2016-08-10T20:30:20.557Z'
 sourcePath: >-
   _posts/2016-06-04-cylance-the-game-changing-artifical-intelligent-security-s.md
 related: []
