@@ -17,8 +17,8 @@ keywords:
   - brag
   - microsoft
 description: ''
-datePublished: '2016-08-10T20:32:35.304Z'
-dateModified: '2016-08-10T20:31:52.400Z'
+datePublished: '2016-08-10T20:33:02.437Z'
+dateModified: '2016-08-10T20:32:41.628Z'
 sourcePath: >-
   _posts/2016-06-04-cylance-the-game-changing-artifical-intelligent-security-s.md
 related: []
