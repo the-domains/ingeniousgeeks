@@ -1,7 +1,9 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: >-
+  https://ingeniousgeeks.mykajabi.com/blog/cylance-the-game-changing-artifical-intelligent-security-software
 inLanguage: en
 keywords:
   - antivirus
@@ -18,12 +20,14 @@ description: >-
   The company is currently focusing on enterprise level networks (500+
   computers). But we have recently created a partnership with Cylance that
   enables us to offer this amazing solution to you, today!
-datePublished: '2016-08-10T17:10:23.830Z'
-dateModified: '2016-08-10T03:59:26.066Z'
+datePublished: '2016-08-10T20:30:11.369Z'
+dateModified: '2016-08-10T20:30:02.833Z'
 sourcePath: >-
   _posts/2016-06-04-cylance-the-game-changing-artifical-intelligent-security-s.md
 related: []
-author: []
+author:
+  - name: ''
+    url: ''
 title: Cylance - The game changing artifical intelligent security software
 app_links: []
 via: {}
@@ -34,9 +38,9 @@ publisher:
   url: 'https://ingeniousgeeks.mykajabi.com'
   favicon: null
 starred: true
-url: cylance-the-game-changing-artifical-intelligent-security-s/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![The company is currently focusing on enterprise level networks (500+ computers). But we have recently created a partnership with Cylance that enables us to offer this amazing solution to you, today!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38a1363b-5683-42b4-8244-58b7f382b4d1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38a1363b-5683-42b4-8244-58b7f382b4d1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ab43659-eb45-468e-ac1a-9782a5b66d57.jpg)
