@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ingeniousgeeks]]></title>
-        <description><![CDATA[ingeniousgeeks]]></description>
+        <title><![CDATA[Ingenious Geeks]]></title>
+        <description><![CDATA[Ingenious Geeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 01:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 02:59:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fb2a4dd-a81d-4483-8bc9-a744c51431b5.png">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fb2a4dd-a81d-4483-8bc9-a744c51431b5.png</link>
+            <guid isPermaLink="false">f59be6c7-eb74-42a2-83fc-0051f5f306b6</guid>
+            <pubDate>Wed, 10 Aug 2016 02:59:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cylance - The game changing artifical intelligent security software]]></title>
             <description><![CDATA[<article><h1>Cylance - The game changing artifical intelligent security software</h1><p>The company is currently focusing on enterprise level networks (500+ computers). But we have recently created a partnership with Cylance that enables us to offer this amazing solution to you, today!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38a1363b-5683-42b4-8244-58b7f382b4d1.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/ingeniousgeeks/c73cb3ec-81ce-441a-a692-3dccd8428635/index.html</link>
             <guid isPermaLink="false">c73cb3ec-81ce-441a-a692-3dccd8428635</guid>
             <pubDate>Sat, 04 Jun 2016 04:00:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fb2a4dd-a81d-4483-8bc9-a744c51431b5.png">]]></description>
-            <link>https://thegrid.ai/ingeniousgeeks/f59be6c7-eb74-42a2-83fc-0051f5f306b6/index.html</link>
-            <guid isPermaLink="false">f59be6c7-eb74-42a2-83fc-0051f5f306b6</guid>
-            <pubDate>Tue, 02 Aug 2016 01:22:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Easy Trick to Fixing App Store Problems on Your iPhone]]></title>
