@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Cylance
-datePublished: '2016-08-10T20:54:20.327Z'
-dateModified: '2016-08-10T20:54:17.956Z'
+datePublished: '2016-08-10T20:56:12.017Z'
+dateModified: '2016-08-10T20:56:07.234Z'
 title: Cylance - The game changing artificial intelligent security software
 author:
   - name: ''
@@ -20,7 +20,7 @@ publisher:
   url: >-
     https://ingeniousgeeks.mykajabi.com/blog/cylance-the-game-changing-artificial-intelligent-security-software
   favicon: null
-starred: false
+starred: true
 url: cylance-the-game-changing-artificial-intelligent-security/index.html
 _type: Article
 
