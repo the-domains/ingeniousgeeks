@@ -20,11 +20,11 @@ color:
   brandColors:
     - '#000000'
     - '#ffffff'
-    - '#fe00fa'
-    - '#0194a6'
-    - '#01fafd'
-  brandStrength: 0.8125
-  lightness: 0.375
+    - '#c20000'
+    - '#9e9e9e'
+    - '#73eed8'
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
