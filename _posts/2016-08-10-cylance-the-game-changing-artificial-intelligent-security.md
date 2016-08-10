@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-10T21:45:06.201Z'
-dateModified: '2016-08-10T21:44:55.257Z'
+datePublished: '2016-08-10T21:50:01.107Z'
+dateModified: '2016-08-10T21:49:58.897Z'
 title: Cylance - The game changing artificial intelligent security software
 author:
   - name: ''
