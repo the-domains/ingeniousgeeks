@@ -4,7 +4,7 @@
         <description><![CDATA[Ingenious Geeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 03:37:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 03:48:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ready for a competitive advantage?]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/ingeniousgeeks/c73cb3ec-81ce-441a-a692-3dccd8428635/index.html</link>
             <guid isPermaLink="false">c73cb3ec-81ce-441a-a692-3dccd8428635</guid>
             <pubDate>Sat, 04 Jun 2016 04:00:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb7159ab-bdd5-43ab-8466-ea7b3ef965f0.jpg">]]></description>
+            <link>https://thegrid.ai/ingeniousgeeks/04db906c-ccd7-49d1-9e13-dd26719186d3/index.html</link>
+            <guid isPermaLink="false">04db906c-ccd7-49d1-9e13-dd26719186d3</guid>
+            <pubDate>Wed, 10 Aug 2016 03:48:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Easy Trick to Fixing App Store Problems on Your iPhone]]></title>
@@ -68,13 +75,6 @@
             <link>https://blog.malwarebytes.org/malwarebytes-news/2016/05/new-mac-os-x-remediation-offering-and-forensics-capabilities-for-enterprise/</link>
             <guid isPermaLink="false">6681df6d-b230-497d-a4b1-73614762ebf5</guid>
             <pubDate>Sat, 04 Jun 2016 04:53:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tech Support Scammers using Winlogon]]></title>
-            <description><![CDATA[<article><h1>Tech Support Scammers using Winlogon</h1><p>As we've seen in other recent examples [ 1], [ 2],[ 3] Tech Support Scammers are using every trick in the malware authors book to get new "customers". Here is one that takes over the victims' Windows system after a reboot by using the Winlogon-Shell registry value.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06e2e53d2c66df0aa523cf6a4534cdb7d763af43.jpg"></article>]]></description>
-            <link>https://blog.malwarebytes.org/cybercrime/2016/05/tech-support-scammers-using-winlogon/</link>
-            <guid isPermaLink="false">8a057510-56bc-4dae-905a-f7ea3e014662</guid>
-            <pubDate>Sat, 04 Jun 2016 04:53:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
