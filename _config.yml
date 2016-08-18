@@ -6,16 +6,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.25
   brandStrength: 0.4829787
-  lightness: 0.7446808
+  lightness: 0.5212766
   brandColors:
     - '#000000'
     - '#2C3B36'
@@ -23,16 +23,16 @@ color:
     - '#9D9D77'
     - '#5A7A86'
   rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-name: Ingenious Geeks
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Ingenious Geeks
 opengraph:
   image: null
   type: null
