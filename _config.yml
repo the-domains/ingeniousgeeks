@@ -15,7 +15,7 @@ collections:
 color:
   saturation: 0.25
   brandStrength: 0.4829787
-  lightness: 0.5212766
+  lightness: 1
   brandColors:
     - '#000000'
     - '#2C3B36'
@@ -23,16 +23,16 @@ color:
     - '#9D9D77'
     - '#5A7A86'
   rhythmicContrast: 0.5
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: Ingenious Geeks
+favicon: null
 opengraph:
   image: null
   type: null
