@@ -1,25 +1,9 @@
 ---
-author:
-  - name: Ingenious Geeks
-    url: 'http://facebook.com/1388093198117898'
-    avatar:
-      src: >-
-        https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13939331_1631766597083889_6101028233581372161_n.jpg?oh=085500f6988e29495ffcf8f65ec3788c&oe=585C681A
-      width: 480
-      height: 480
-      colors:
-        - - 10
-          - 25
-          - 42
-        - - 234
-          - 240
-          - 245
-related: []
-publisher:
-  url: 'http://www.facebook.com'
-  name: Facebook
-  favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
-  domain: www.facebook.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.facebook.com/ingeniousgeeks/posts/1631284180465464'
+inLanguage: en
 keywords:
   - android
   - windows
@@ -34,7 +18,35 @@ keywords:
 description: >-
   Security weaknesses on many popular fitness trackers may allow hackers to
   access or potentially manipulate user data, a study showed Monday.
-inLanguage: en
+datePublished: '2016-08-19T19:08:45.315Z'
+dateModified: '2016-08-19T19:07:35.364Z'
+author:
+  - name: Ingenious Geeks
+    url: 'http://facebook.com/1388093198117898'
+    avatar:
+      src: >-
+        https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0362843c206c7657c9d341857078c7eb/noop.jpg?input=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft1.0-0%2Fp480x480%2F13939331_1631766597083889_6101028233581372161_n.jpg%3Foh%3D085500f6988e29495ffcf8f65ec3788c%26oe%3D585C681A
+      original: >-
+        https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13939331_1631766597083889_6101028233581372161_n.jpg?oh=085500f6988e29495ffcf8f65ec3788c&oe=585C681A
+      width: 480
+      height: 480
+      colors:
+        - - 255
+          - 254
+          - 255
+        - - 0
+          - 0
+          - 9
+        - - 89
+          - 89
+          - 99
+        - - 157
+          - 157
+          - 165
+        - - 202
+          - 201
+          - 206
+related: []
 title: ''
 app_links:
   - url: 'fb://page/1388093198117898'
@@ -47,16 +59,16 @@ app_links:
     namespace: ai
     app_name: Facebook
     app_store_id: '284882215'
-isBasedOnUrl: 'https://www.facebook.com/ingeniousgeeks/posts/1631284180465464'
-datePublished: '2016-08-19T19:07:26.779Z'
-dateModified: '2016-08-19T19:05:27.607Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-19-security-weaknesses-on-many-popular-fitness-trackers-may-all.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Facebook
+  domain: www.facebook.com
+  url: 'http://www.facebook.com'
+  favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
+starred: false
 _type: Photograph
 _context: 'http://schema.org'
 
