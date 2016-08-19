@@ -1,9 +1,11 @@
 ---
+datePublished: '2016-08-19T19:10:31.734Z'
+sourcePath: >-
+  _posts/2016-08-19-security-weaknesses-on-many-popular-fitness-trackers-may-all.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: 'https://www.facebook.com/ingeniousgeeks/posts/1631284180465464'
-inLanguage: en
+authors: []
+hasPage: false
 keywords:
   - android
   - windows
@@ -15,19 +17,15 @@ keywords:
   - user
   - data
   - mobile
-description: >-
-  Security weaknesses on many popular fitness trackers may allow hackers to
-  access or potentially manipulate user data, a study showed Monday.
-datePublished: '2016-08-19T19:08:45.315Z'
-dateModified: '2016-08-19T19:07:35.364Z'
+related: []
 author:
   - name: Ingenious Geeks
     url: 'http://facebook.com/1388093198117898'
     avatar:
       src: >-
-        https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0362843c206c7657c9d341857078c7eb/noop.jpg?input=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft1.0-0%2Fp480x480%2F13939331_1631766597083889_6101028233581372161_n.jpg%3Foh%3D085500f6988e29495ffcf8f65ec3788c%26oe%3D585C681A
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8a97d1f638e19ad89207fba132f250b9cd2bb10.jpg
       original: >-
-        https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13939331_1631766597083889_6101028233581372161_n.jpg?oh=085500f6988e29495ffcf8f65ec3788c&oe=585C681A
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8a97d1f638e19ad89207fba132f250b9cd2bb10.jpg
       width: 480
       height: 480
       colors:
@@ -46,7 +44,8 @@ author:
         - - 202
           - 201
           - 206
-related: []
+via: {}
+dateModified: '2016-08-19T19:10:31.198Z'
 title: ''
 app_links:
   - url: 'fb://page/1388093198117898'
@@ -59,18 +58,19 @@ app_links:
     namespace: ai
     app_name: Facebook
     app_store_id: '284882215'
-via: {}
-sourcePath: >-
-  _posts/2016-08-19-security-weaknesses-on-many-popular-fitness-trackers-may-all.md
-authors: []
 publisher:
   name: Facebook
   domain: www.facebook.com
   url: 'http://www.facebook.com'
   favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
+description: >-
+  Security weaknesses on many popular fitness trackers may allow hackers to
+  access or potentially manipulate user data, a study showed Monday.
+inLanguage: en
+inNav: false
 starred: false
-_type: Photograph
 _context: 'http://schema.org'
+_type: Photograph
 
 ---
-![Security weaknesses on many popular fitness trackers may allow hackers to access or potentially manipulate user data, a study showed Monday.](https://external.xx.fbcdn.net/safe_image.php?d=AQAT_QDt8IshjQg8&w=158&h=158&url=http%3A%2F%2Fcdn.phys.org%2Fnewman%2Fgfx%2Fnews%2Fhires%2F2016%2F578cfa1ab5611.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f28d5ef98444231b0eb9233571f035e3/noop.php?input=https%3A%2F%2Fexternal.xx.fbcdn.net%2Fsafe_image.php%3Fd%3DAQAT_QDt8IshjQg8%26w%3D158%26h%3D158%26url%3Dhttp%253A%252F%252Fcdn.phys.org%252Fnewman%252Fgfx%252Fnews%252Fhires%252F2016%252F578cfa1ab5611.jpg)
