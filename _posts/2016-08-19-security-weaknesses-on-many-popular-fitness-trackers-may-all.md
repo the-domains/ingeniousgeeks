@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T19:10:31.734Z'
+datePublished: '2016-08-19T19:13:15.263Z'
 sourcePath: >-
   _posts/2016-08-19-security-weaknesses-on-many-popular-fitness-trackers-may-all.md
 inFeed: true
@@ -45,7 +45,7 @@ author:
           - 201
           - 206
 via: {}
-dateModified: '2016-08-19T19:10:31.198Z'
+dateModified: '2016-08-19T19:13:14.860Z'
 title: ''
 app_links:
   - url: 'fb://page/1388093198117898'
@@ -73,4 +73,4 @@ _context: 'http://schema.org'
 _type: Photograph
 
 ---
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f28d5ef98444231b0eb9233571f035e3/noop.php?input=https%3A%2F%2Fexternal.xx.fbcdn.net%2Fsafe_image.php%3Fd%3DAQAT_QDt8IshjQg8%26w%3D158%26h%3D158%26url%3Dhttp%253A%252F%252Fcdn.phys.org%252Fnewman%252Fgfx%252Fnews%252Fhires%252F2016%252F578cfa1ab5611.jpg)
+![The seven Android devices showed varying levels of security, with some allowing hackers the ability to access or tamper with user data.](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f28d5ef98444231b0eb9233571f035e3/noop.php?input=https%3A%2F%2Fexternal.xx.fbcdn.net%2Fsafe_image.php%3Fd%3DAQAT_QDt8IshjQg8%26w%3D158%26h%3D158%26url%3Dhttp%253A%252F%252Fcdn.phys.org%252Fnewman%252Fgfx%252Fnews%252Fhires%252F2016%252F578cfa1ab5611.jpg)
