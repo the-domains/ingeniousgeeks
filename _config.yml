@@ -1,16 +1,16 @@
-layout_spectrum: 0.8701853107195348
-typography_spectrum: 0.3236082496587187
+layout_spectrum: 0.6067774347029626
+typography_spectrum: 0.23954591364599764
 color:
-  saturation: 0.7232336064334959
-  brandStrength: 0.6237152211833745
-  lightness: 0.45417706784792244
+  saturation: 0.23158039385452867
+  brandStrength: 0.9373931766021997
+  lightness: 0.9899708214215934
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-  rhythmicContrast: 0.7964313311967999
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  rhythmicContrast: 0.4322749045677483
 title: Ingenious Geeks
 purpose: []
 collections:
