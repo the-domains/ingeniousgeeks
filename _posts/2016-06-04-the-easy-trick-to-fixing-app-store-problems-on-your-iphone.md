@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T00:47:58.641Z'
+datePublished: '2016-08-24T00:51:26.912Z'
 sourcePath: >-
   _posts/2016-06-04-the-easy-trick-to-fixing-app-store-problems-on-your-iphone.md
 isBasedOnUrl: >-
@@ -34,7 +34,8 @@ author:
   - name: Isaac Sahag
     url: 'http://creator.wonderhowto.com/isaacsahag/'
     avatar: {}
-dateModified: '2016-08-24T00:47:58.171Z'
+via: {}
+dateModified: '2016-08-24T00:51:26.501Z'
 title: The Easy Trick to Fixing App Store Problems on Your iPhone
 app_links: []
 publisher:
@@ -48,7 +49,6 @@ description: >-
   With all of that work, it can lose its footing from time to time and cause
   things not to work as they should.
 inLanguage: en
-via: {}
 starred: false
 inFeed: true
 hasPage: false
