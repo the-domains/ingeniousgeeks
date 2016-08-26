@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T03:50:52.900Z'
+datePublished: '2016-08-26T03:52:22.831Z'
 sourcePath: >-
   _posts/2016-06-04-middle-class-workers-are-losing-their-jobs-to-robots-or-news.md
 isBasedOnUrl: >-
@@ -20,7 +20,8 @@ author:
   - name: Meredith Placko
     url: 'http://www.geek.com/author/mplacko/'
     avatar: {}
-dateModified: '2016-08-26T03:50:52.395Z'
+via: {}
+dateModified: '2016-08-26T03:52:22.398Z'
 title: Middle class workers are losing their jobs to robots | News | Geek.com
 app_links: []
 publisher:
@@ -35,7 +36,6 @@ description: >-
   workforce is becoming a leading topic among economists as well as world and
   business leaders.
 inLanguage: en
-via: {}
 starred: false
 inFeed: true
 hasPage: false
