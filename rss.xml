@@ -4,7 +4,7 @@
         <description><![CDATA[Ingenious Geeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 03:53:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 03:53:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology News to give you the competitive edge]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ingeniousgeeks/04db906c-ccd7-49d1-9e13-dd26719186d3/index.html</link>
             <guid isPermaLink="false">04db906c-ccd7-49d1-9e13-dd26719186d3</guid>
             <pubDate>Fri, 26 Aug 2016 03:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You Should Get TSA Pre-Check. Here's How.]]></title>
+            <description><![CDATA[<article><h1>You Should Get TSA Pre-Check. Here's How.</h1><p>No, you're not just imagining things. The security line at the airport is getting worse. Last weekend in , lines at the TSA checkpoint stretched back two to three hours, causing hundreds of passengers who showed up in the recommended amount of time to miss their flights.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b30b4f85dfacf30af78e45ac080ef7872743d53.jpg"></article>]]></description>
+            <link>http://www.popularmechanics.com/flight/how-to/a20968/how-to-get-global-entry-tsa-pre-check/</link>
+            <guid isPermaLink="false">e1228646-c055-480c-b7fa-18b0d0dc2950</guid>
+            <pubDate>Fri, 26 Aug 2016 03:53:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[6 Tips for Getting the Best Seats on an Airplane]]></title>
@@ -68,13 +75,6 @@
             <link>https://blog.malwarebytes.org/101/2016/05/how-to-tell-if-youre-infected-with-malware/</link>
             <guid isPermaLink="false">eb5cdbae-3745-477b-abcc-37ce34beb4d8</guid>
             <pubDate>Fri, 26 Aug 2016 03:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tech Support Scammers using Winlogon]]></title>
-            <description><![CDATA[<article><h1>Tech Support Scammers using Winlogon</h1><p>As we've seen in other recent examples [ 1], [ 2],[ 3] Tech Support Scammers are using every trick in the malware authors book to get new "customers". Here is one that takes over the victims' Windows system after a reboot by using the Winlogon-Shell registry value.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06e2e53d2c66df0aa523cf6a4534cdb7d763af43.jpg"></article>]]></description>
-            <link>https://blog.malwarebytes.org/cybercrime/2016/05/tech-support-scammers-using-winlogon/</link>
-            <guid isPermaLink="false">8a057510-56bc-4dae-905a-f7ea3e014662</guid>
-            <pubDate>Fri, 26 Aug 2016 03:51:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
