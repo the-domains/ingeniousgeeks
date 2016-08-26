@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T03:53:59.215Z'
+datePublished: '2016-08-26T03:54:29.579Z'
 sourcePath: >-
   _posts/2016-06-04-microsofts-outlook-and-hotmail-spam-filters-are-currently-b.md
 isBasedOnUrl: >-
@@ -34,7 +34,8 @@ author:
   - name: Tom Warren
     url: 'http://www.theverge.com/users/tomwarren'
     avatar: {}
-dateModified: '2016-08-26T03:53:58.795Z'
+via: {}
+dateModified: '2016-08-26T03:54:29.143Z'
 title: Microsoft's Outlook and Hotmail spam filters are currently broken
 app_links: []
 publisher:
@@ -50,7 +51,6 @@ description: >-
   receiving excessive spam mail," reads a warning on Microsoft's Outlook.com
   service status site.
 inLanguage: en
-via: {}
 starred: false
 inFeed: true
 hasPage: false
