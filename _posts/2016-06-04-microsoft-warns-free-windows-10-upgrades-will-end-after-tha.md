@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T03:50:35.370Z'
+datePublished: '2016-08-26T03:52:31.619Z'
 sourcePath: >-
   _posts/2016-06-04-microsoft-warns-free-windows-10-upgrades-will-end-after-tha.md
 isBasedOnUrl: >-
@@ -27,7 +27,8 @@ author:
   - name: Lee Mathews
     url: 'http://www.geek.com/author/lmathews/'
     avatar: {}
-dateModified: '2016-08-26T03:50:34.894Z'
+via: {}
+dateModified: '2016-08-26T03:52:31.088Z'
 title: >-
   Microsoft warns free Windows 10 upgrades will end, after that it's $119 |
   Microsoft | Geek.com
@@ -43,7 +44,6 @@ description: >-
   Microsoft published a blog post today trumpeting the total number of Windows
   10 installs so far.
 inLanguage: en
-via: {}
 starred: false
 inFeed: true
 hasPage: false
