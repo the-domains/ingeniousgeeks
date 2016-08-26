@@ -4,7 +4,7 @@
         <description><![CDATA[Ingenious Geeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 03:54:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 03:55:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology News to give you the competitive edge]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ingeniousgeeks/04db906c-ccd7-49d1-9e13-dd26719186d3/index.html</link>
             <guid isPermaLink="false">04db906c-ccd7-49d1-9e13-dd26719186d3</guid>
             <pubDate>Fri, 26 Aug 2016 03:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UPS now lets you track packages for real - on an actual map]]></title>
+            <description><![CDATA[<article><h1>UPS now lets you track packages for real - on an actual map</h1><p>There will be no more sweating in anticipation when your package shows as "out for delivery," my friends. UPS has finally rolled out true package tracking, letting you see exactly where the truck carrying your item is on a map right from your smartphone or PC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25870dda8d5c475f6d06258db7423a36ea75b445.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/5/12/11668602/ups-follow-my-delivery-map-tracking-now-available</link>
+            <guid isPermaLink="false">d6d29983-d9b6-4268-a35f-b1533bf0d7f9</guid>
+            <pubDate>Fri, 26 Aug 2016 03:55:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This real-time translation earpiece may or may not help you woo foreign cuties]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.technologyreview.com/s/601578/apple-wants-to-make-siri-far-more-powerful/#/set/id/601579/</link>
             <guid isPermaLink="false">11c8608b-ca85-4b12-a167-b81177be6e66</guid>
             <pubDate>Fri, 26 Aug 2016 03:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Computer Vision Syndrome Affects Millions]]></title>
-            <description><![CDATA[<article><h1>Computer Vision Syndrome Affects Millions</h1><p>Joanne Reitano is a professor of history at LaGuardia Community College in Long Island City, Queens. She writes wonderful books about the history of the city and state, and has recently been spending many hours - sometimes all day - at her computer to revise her first book, "The Restless City."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca450a19ffebfe4b614417cbb89a5a1ae9e4e31c.jpg"></article>]]></description>
-            <link>http://well.blogs.nytimes.com/2016/05/30/computer-vision-syndrome-affects-millions/?rref=collection%2Fsectioncollection%2Fhealth&amp;action=click&amp;contentCollection=health&amp;region=rank&amp;module=package&amp;version=highlights&amp;contentPlacement=1&amp;pgtype=sectionfront</link>
-            <guid isPermaLink="false">8bf3189b-7543-4f5d-b4fe-0ec59eef2054</guid>
-            <pubDate>Fri, 26 Aug 2016 03:52:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
