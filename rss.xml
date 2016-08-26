@@ -4,7 +4,7 @@
         <description><![CDATA[Ingenious Geeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 03:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 03:49:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology News to give you the competitive edge]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/ingeniousgeeks/04db906c-ccd7-49d1-9e13-dd26719186d3/index.html</link>
             <guid isPermaLink="false">04db906c-ccd7-49d1-9e13-dd26719186d3</guid>
             <pubDate>Fri, 26 Aug 2016 03:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tech Support Scammers using Winlogon]]></title>
+            <description><![CDATA[<article><h1>Tech Support Scammers using Winlogon</h1><p>As we've seen in other recent examples [ 1], [ 2],[ 3] Tech Support Scammers are using every trick in the malware authors book to get new "customers". Here is one that takes over the victims' Windows system after a reboot by using the Winlogon-Shell registry value.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06e2e53d2c66df0aa523cf6a4534cdb7d763af43.jpg"></article>]]></description>
+            <link>https://blog.malwarebytes.org/cybercrime/2016/05/tech-support-scammers-using-winlogon/</link>
+            <guid isPermaLink="false">8a057510-56bc-4dae-905a-f7ea3e014662</guid>
+            <pubDate>Fri, 26 Aug 2016 03:49:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to sign a document on your iPhone]]></title>
+            <description><![CDATA[<article><h1>How to sign a document on your iPhone</h1><p>While the majority of communication these days is digital, one's signature remains an integral part of many contractual, legal and financial documents, and without it progress can come to a halt. For years the solution was to print out a document, sign it and either fax it back or scan it and email it back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef052069cc2fdd4022b07b26da533d145d56bdae.jpg"></article>]]></description>
+            <link>http://www.iphonefaq.org/archives/975383</link>
+            <guid isPermaLink="false">89c76eea-74f9-45de-98f7-5fe0d8f8aa5d</guid>
+            <pubDate>Fri, 26 Aug 2016 03:45:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This Hidden Feature Makes Your iPhone Read Books & Articles Aloud]]></title>
@@ -40,13 +54,6 @@
             <link>http://ios.wonderhowto.com/how-to/easy-trick-fixing-app-store-problems-your-iphone-0168478/</link>
             <guid isPermaLink="false">0d1d3794-a1e7-45ea-8c6d-b64b72e9cb4c</guid>
             <pubDate>Fri, 26 Aug 2016 03:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to sign a document on your iPhone]]></title>
-            <description><![CDATA[<article><h1>How to sign a document on your iPhone</h1><p>While the majority of communication these days is digital, one's signature remains an integral part of many contractual, legal and financial documents, and without it progress can come to a halt. For years the solution was to print out a document, sign it and either fax it back or scan it and email it back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef052069cc2fdd4022b07b26da533d145d56bdae.jpg"></article>]]></description>
-            <link>http://www.iphonefaq.org/archives/975383</link>
-            <guid isPermaLink="false">89c76eea-74f9-45de-98f7-5fe0d8f8aa5d</guid>
-            <pubDate>Sat, 04 Jun 2016 04:53:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Mac OS X remediation offering and forensics capabilities for enterprise]]></title>
