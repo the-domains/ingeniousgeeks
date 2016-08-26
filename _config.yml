@@ -29,6 +29,9 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/ingeniousgeeks/'
     type: external
+  - name: Our Store
+    url: 'https://ingeniousgeeks.mykajabi.com'
+    type: external
 favicon: null
 collections:
   - index:
