@@ -4,7 +4,7 @@
         <description><![CDATA[Ingenious Geeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 03:51:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 03:51:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology News to give you the competitive edge]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ingeniousgeeks/04db906c-ccd7-49d1-9e13-dd26719186d3/index.html</link>
             <guid isPermaLink="false">04db906c-ccd7-49d1-9e13-dd26719186d3</guid>
             <pubDate>Fri, 26 Aug 2016 03:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This Hidden Feature Makes Your iPhone Read Books & Articles Aloud]]></title>
+            <description><![CDATA[<article><h1>This Hidden Feature Makes Your iPhone Read Books & Articles Aloud</h1><p>I often read ebooks on my iPhone while I walk, but being glued to my screen is a good way to get run over or cursed at. To save my physical and social hide, I use this trick to get my iPhone to read ebooks and articles out loud, turning my whole text library into de facto audiobooks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95f27a2ebfabbef3d3dd663ed3d4a2e5a79c3936.jpg"></article>]]></description>
+            <link>http://ios.wonderhowto.com/how-to/hidden-feature-makes-your-iphone-read-books-articles-aloud-0171052/</link>
+            <guid isPermaLink="false">d971a3ea-53c9-4280-93c9-d2cd646028cd</guid>
+            <pubDate>Fri, 26 Aug 2016 03:51:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google's New AI-Powered Allo Will Help You Message Better]]></title>
@@ -68,13 +75,6 @@
             <link>https://blog.malwarebytes.org/cybercrime/2016/05/tech-support-scammers-using-winlogon/</link>
             <guid isPermaLink="false">8a057510-56bc-4dae-905a-f7ea3e014662</guid>
             <pubDate>Fri, 26 Aug 2016 03:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to sign a document on your iPhone]]></title>
-            <description><![CDATA[<article><h1>How to sign a document on your iPhone</h1><p>While the majority of communication these days is digital, one's signature remains an integral part of many contractual, legal and financial documents, and without it progress can come to a halt. For years the solution was to print out a document, sign it and either fax it back or scan it and email it back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef052069cc2fdd4022b07b26da533d145d56bdae.jpg"></article>]]></description>
-            <link>http://www.iphonefaq.org/archives/975383</link>
-            <guid isPermaLink="false">89c76eea-74f9-45de-98f7-5fe0d8f8aa5d</guid>
-            <pubDate>Fri, 26 Aug 2016 03:45:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
