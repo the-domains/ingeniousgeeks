@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T03:44:39.872Z'
+datePublished: '2016-08-26T03:51:15.839Z'
 sourcePath: _posts/2016-06-04-your-smartphones-fingerprint-scanner-can-easily-be-hacked.md
 isBasedOnUrl: >-
   http://smartphones.wonderhowto.com/inspiration/your-smartphones-fingerprint-scanner-can-easily-be-hacked-with-printer-0169378/
@@ -19,7 +19,8 @@ author:
   - name: Eric Ramsley
     url: 'http://creator.wonderhowto.com/ericramsley/'
     avatar: {}
-dateModified: '2016-08-26T03:44:39.447Z'
+via: {}
+dateModified: '2016-08-26T03:51:15.491Z'
 title: Your Smartphone's Fingerprint Scanner Can Easily Be 'Hacked' with a Printer
 app_links: []
 publisher:
@@ -34,7 +35,6 @@ description: >-
   fingerprint readers, and successfully tested their method on a Samsung Galaxy
   S6 and Huawei Honor 7.
 inLanguage: en
-via: {}
 starred: false
 inFeed: true
 hasPage: false
