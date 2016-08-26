@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Meredith Placko
-    url: 'http://www.geek.com/author/mplacko/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.geek.com'
-  name: '@geekdotcom'
-  favicon: 'http://www.geek.com/wp-content/themes/geek7/favicon.ico'
-  domain: www.geek.com
+datePublished: '2016-08-26T03:50:52.900Z'
+sourcePath: >-
+  _posts/2016-06-04-middle-class-workers-are-losing-their-jobs-to-robots-or-news.md
+isBasedOnUrl: >-
+  http://www.geek.com/news/middle-class-workers-are-losing-their-jobs-to-robots-1654097/
 keywords:
   - robots
   - machine
@@ -20,6 +15,19 @@ keywords:
   - future
   - workers
   - artificial
+related: []
+author:
+  - name: Meredith Placko
+    url: 'http://www.geek.com/author/mplacko/'
+    avatar: {}
+dateModified: '2016-08-26T03:50:52.395Z'
+title: Middle class workers are losing their jobs to robots | News | Geek.com
+app_links: []
+publisher:
+  url: 'http://www.geek.com'
+  name: '@geekdotcom'
+  favicon: 'http://www.geek.com/wp-content/themes/geek7/favicon.ico'
+  domain: www.geek.com
 description: >-
   It's a headline that is all too familiar these days. As the world of
   automation grows and workers are being replaced by robots in factories,
@@ -27,15 +35,8 @@ description: >-
   workforce is becoming a leading topic among economists as well as world and
   business leaders.
 inLanguage: en
-app_links: []
-isBasedOnUrl: >-
-  http://www.geek.com/news/middle-class-workers-are-losing-their-jobs-to-robots-1654097/
-title: Middle class workers are losing their jobs to robots | News | Geek.com
-datePublished: '2016-06-04T04:53:04.916Z'
-dateModified: '2016-06-04T04:47:19.974Z'
+via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-06-04-middle-class-workers-are-losing-their-jobs-to-robots-or-news.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -43,4 +44,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Middle class workers are losing their jobs to robots | News | Geek.com</h1><p>It's a headline that is all too familiar these days. As the world of automation grows and workers are being replaced by robots in factories, farming, and even food service - the concern of what to do with this displaced workforce is becoming a leading topic among economists as well as world and business leaders.</p><img src="http://www.geek.com/wp-content/uploads/2016/05/human_robot_03.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20956be5c508c908baff3b1c72cbebf63beec8fc.jpg" /><h1>Middle class workers are losing their jobs to robots | News | Geek.com</h1><p>It's a headline that is all too familiar these days. As the world of automation grows and workers are being replaced by robots in factories, farming, and even food service - the concern of what to do with this displaced workforce is becoming a leading topic among economists as well as world and business leaders.</p></article>
