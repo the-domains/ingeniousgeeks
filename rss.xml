@@ -4,7 +4,7 @@
         <description><![CDATA[Ingenious Geeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 03:51:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 03:51:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology News to give you the competitive edge]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ingeniousgeeks/04db906c-ccd7-49d1-9e13-dd26719186d3/index.html</link>
             <guid isPermaLink="false">04db906c-ccd7-49d1-9e13-dd26719186d3</guid>
             <pubDate>Fri, 26 Aug 2016 03:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your Smartphone's Fingerprint Scanner Can Easily Be 'Hacked' with a Printer]]></title>
+            <description><![CDATA[<article><h1>Your Smartphone's Fingerprint Scanner Can Easily Be 'Hacked' with a Printer</h1><p>Using a fingerprint scanner to keep intruders out of your phone might not be as secure as you think. Two researchers from Michigan State University, Kai Cao and Anil K. Jain, developed a relatively cheap and effective way to beat fingerprint readers, and successfully tested their method on a Samsung Galaxy S6 and Huawei Honor 7.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c078f94d6d59d35b5bf05cac14fe3ab8993613c.jpg"></article>]]></description>
+            <link>http://smartphones.wonderhowto.com/inspiration/your-smartphones-fingerprint-scanner-can-easily-be-hacked-with-printer-0169378/</link>
+            <guid isPermaLink="false">9504f1f3-7f2b-4b96-8b1e-d8b59c83ce75</guid>
+            <pubDate>Fri, 26 Aug 2016 03:51:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Easy Trick to Fixing App Store Problems on Your iPhone]]></title>
@@ -68,13 +75,6 @@
             <link>http://ios.wonderhowto.com/how-to/hidden-feature-makes-your-iphone-read-books-articles-aloud-0171052/</link>
             <guid isPermaLink="false">d971a3ea-53c9-4280-93c9-d2cd646028cd</guid>
             <pubDate>Fri, 26 Aug 2016 03:45:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google's New AI-Powered Allo Will Help You Message Better]]></title>
-            <description><![CDATA[<article><h1>Google's New AI-Powered Allo Will Help You Message Better</h1><p>At their annual I/O event, Google introduced their latest app to the public: Allo. The messaging app is the company's latest and most powerful entry into the expanding world of similar apps, with one twist-the inclusion of artificial intelligence. Allo by Google.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56a6faab9de1c318c8cf4ab185949e72f579a39c.jpg"></article>]]></description>
-            <link>http://android.wonderhowto.com/inspiration/googles-new-ai-powered-allo-will-help-you-message-better-0171189/</link>
-            <guid isPermaLink="false">011c541b-624b-448b-92ea-e94c847a9ba9</guid>
-            <pubDate>Fri, 26 Aug 2016 03:44:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
