@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T03:45:03.816Z'
+datePublished: '2016-08-26T03:51:33.000Z'
 sourcePath: >-
   _posts/2016-06-04-this-hidden-feature-makes-your-iphone-read-books-and-articles.md
 isBasedOnUrl: >-
@@ -20,7 +20,8 @@ author:
   - name: Cody Brooks
     url: 'http://creator.wonderhowto.com/codybrooks/'
     avatar: {}
-dateModified: '2016-08-26T03:45:03.336Z'
+via: {}
+dateModified: '2016-08-26T03:51:32.531Z'
 title: This Hidden Feature Makes Your iPhone Read Books & Articles Aloud
 app_links: []
 publisher:
@@ -34,7 +35,6 @@ description: >-
   I use this trick to get my iPhone to read ebooks and articles out loud,
   turning my whole text library into de facto audiobooks.
 inLanguage: en
-via: {}
 starred: false
 inFeed: true
 hasPage: false
