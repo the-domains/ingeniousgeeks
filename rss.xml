@@ -4,7 +4,7 @@
         <description><![CDATA[Ingenious Geeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 03:53:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 03:53:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology News to give you the competitive edge]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ingeniousgeeks/04db906c-ccd7-49d1-9e13-dd26719186d3/index.html</link>
             <guid isPermaLink="false">04db906c-ccd7-49d1-9e13-dd26719186d3</guid>
             <pubDate>Fri, 26 Aug 2016 03:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6 Tips for Getting the Best Seats on an Airplane]]></title>
+            <description><![CDATA[<article><h1>6 Tips for Getting the Best Seats on an Airplane</h1><p>Things to think about before you book your next trip.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66a6938ef4d37a64d4fde68a4003f2118068e19c.jpg"></article>]]></description>
+            <link>https://pjmedia.com/lifestyle/2016/05/22/6-surprising-tips-for-choosing-seats-on-an-airplane/</link>
+            <guid isPermaLink="false">95028b10-7be3-4628-87b7-beb85378afd9</guid>
+            <pubDate>Fri, 26 Aug 2016 03:53:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apple Wants to Make Siri Far More Powerful]]></title>
@@ -68,13 +75,6 @@
             <link>https://blog.malwarebytes.org/cybercrime/2016/05/tech-support-scammers-using-winlogon/</link>
             <guid isPermaLink="false">8a057510-56bc-4dae-905a-f7ea3e014662</guid>
             <pubDate>Fri, 26 Aug 2016 03:51:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to sign a document on your iPhone]]></title>
-            <description><![CDATA[<article><h1>How to sign a document on your iPhone</h1><p>While the majority of communication these days is digital, one's signature remains an integral part of many contractual, legal and financial documents, and without it progress can come to a halt. For years the solution was to print out a document, sign it and either fax it back or scan it and email it back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef052069cc2fdd4022b07b26da533d145d56bdae.jpg"></article>]]></description>
-            <link>http://www.iphonefaq.org/archives/975383</link>
-            <guid isPermaLink="false">89c76eea-74f9-45de-98f7-5fe0d8f8aa5d</guid>
-            <pubDate>Fri, 26 Aug 2016 03:51:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
