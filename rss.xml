@@ -4,7 +4,7 @@
         <description><![CDATA[Ingenious Geeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 03:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 03:52:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology News to give you the competitive edge]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ingeniousgeeks/04db906c-ccd7-49d1-9e13-dd26719186d3/index.html</link>
             <guid isPermaLink="false">04db906c-ccd7-49d1-9e13-dd26719186d3</guid>
             <pubDate>Fri, 26 Aug 2016 03:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middle class workers are losing their jobs to robots | News | Geek.com]]></title>
+            <description><![CDATA[<article><h1>Middle class workers are losing their jobs to robots | News | Geek.com</h1><p>It's a headline that is all too familiar these days. As the world of automation grows and workers are being replaced by robots in factories, farming, and even food service - the concern of what to do with this displaced workforce is becoming a leading topic among economists as well as world and business leaders.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20956be5c508c908baff3b1c72cbebf63beec8fc.jpg"></article>]]></description>
+            <link>http://www.geek.com/news/middle-class-workers-are-losing-their-jobs-to-robots-1654097/</link>
+            <guid isPermaLink="false">52b9efca-7cdf-4b01-9215-38ca6c8fc644</guid>
+            <pubDate>Fri, 26 Aug 2016 03:52:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dell's 43-inch 4K monitor doubles as 4 borderless 1080p displays | Chips | Geek.com]]></title>
@@ -68,13 +75,6 @@
             <link>http://ios.wonderhowto.com/how-to/easy-trick-fixing-app-store-problems-your-iphone-0168478/</link>
             <guid isPermaLink="false">0d1d3794-a1e7-45ea-8c6d-b64b72e9cb4c</guid>
             <pubDate>Fri, 26 Aug 2016 03:51:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middle class workers are losing their jobs to robots | News | Geek.com]]></title>
-            <description><![CDATA[<article><h1>Middle class workers are losing their jobs to robots | News | Geek.com</h1><p>It's a headline that is all too familiar these days. As the world of automation grows and workers are being replaced by robots in factories, farming, and even food service - the concern of what to do with this displaced workforce is becoming a leading topic among economists as well as world and business leaders.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20956be5c508c908baff3b1c72cbebf63beec8fc.jpg"></article>]]></description>
-            <link>http://www.geek.com/news/middle-class-workers-are-losing-their-jobs-to-robots-1654097/</link>
-            <guid isPermaLink="false">52b9efca-7cdf-4b01-9215-38ca6c8fc644</guid>
-            <pubDate>Fri, 26 Aug 2016 03:50:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
