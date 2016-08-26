@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T03:49:44.500Z'
+datePublished: '2016-08-26T03:51:52.080Z'
 sourcePath: _posts/2016-06-04-tech-support-scammers-using-winlogon.md
 isBasedOnUrl: >-
   https://blog.malwarebytes.org/cybercrime/2016/05/tech-support-scammers-using-winlogon/
@@ -19,7 +19,8 @@ author:
   - name: Pieter Arntz
     url: 'https://blog.malwarebytes.org/author/metallicamvp/'
     avatar: {}
-dateModified: '2016-08-26T03:49:44.116Z'
+via: {}
+dateModified: '2016-08-26T03:51:51.625Z'
 title: Tech Support Scammers using Winlogon
 app_links: []
 publisher:
@@ -33,7 +34,6 @@ description: >-
   is one that takes over the victims' Windows system after a reboot by using the
   Winlogon-Shell registry value.
 inLanguage: en
-via: {}
 starred: false
 inFeed: true
 hasPage: false
