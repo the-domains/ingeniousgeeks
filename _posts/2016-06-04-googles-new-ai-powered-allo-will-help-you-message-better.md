@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T03:44:49.480Z'
+datePublished: '2016-08-26T03:51:24.426Z'
 sourcePath: _posts/2016-06-04-googles-new-ai-powered-allo-will-help-you-message-better.md
 isBasedOnUrl: >-
   http://android.wonderhowto.com/inspiration/googles-new-ai-powered-allo-will-help-you-message-better-0171189/
@@ -19,7 +19,8 @@ author:
   - name: Christopher Smith
     url: 'http://creator.wonderhowto.com/chsmith_nyc/'
     avatar: {}
-dateModified: '2016-08-26T03:44:48.998Z'
+via: {}
+dateModified: '2016-08-26T03:51:22.945Z'
 title: Google's New AI-Powered Allo Will Help You Message Better
 app_links: []
 publisher:
@@ -33,7 +34,6 @@ description: >-
   the expanding world of similar apps, with one twist-the inclusion of
   artificial intelligence. Allo by Google.
 inLanguage: en
-via: {}
 starred: false
 inFeed: true
 hasPage: false
