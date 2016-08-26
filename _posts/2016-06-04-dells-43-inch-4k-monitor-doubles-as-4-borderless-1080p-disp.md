@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T03:50:04.089Z'
+datePublished: '2016-08-26T03:52:08.669Z'
 sourcePath: >-
   _posts/2016-06-04-dells-43-inch-4k-monitor-doubles-as-4-borderless-1080p-disp.md
 isBasedOnUrl: >-
@@ -20,7 +20,8 @@ author:
   - name: Matthew Humphries
     url: 'http://www.geek.com/author/matthew-2/'
     avatar: {}
-dateModified: '2016-08-26T03:50:03.653Z'
+via: {}
+dateModified: '2016-08-26T03:52:08.265Z'
 title: >-
   Dell's 43-inch 4K monitor doubles as 4 borderless 1080p displays | Chips |
   Geek.com
@@ -36,7 +37,6 @@ description: >-
   two displays, but soon moving to three. I now sit looking at three Dell
   24-inch monitors all day. It's great.
 inLanguage: en
-via: {}
 starred: false
 inFeed: true
 hasPage: false
