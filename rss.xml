@@ -4,7 +4,7 @@
         <description><![CDATA[Ingenious Geeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 03:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 03:51:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology News to give you the competitive edge]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ingeniousgeeks/04db906c-ccd7-49d1-9e13-dd26719186d3/index.html</link>
             <guid isPermaLink="false">04db906c-ccd7-49d1-9e13-dd26719186d3</guid>
             <pubDate>Fri, 26 Aug 2016 03:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tech Support Scammers using Winlogon]]></title>
+            <description><![CDATA[<article><h1>Tech Support Scammers using Winlogon</h1><p>As we've seen in other recent examples [ 1], [ 2],[ 3] Tech Support Scammers are using every trick in the malware authors book to get new "customers". Here is one that takes over the victims' Windows system after a reboot by using the Winlogon-Shell registry value.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06e2e53d2c66df0aa523cf6a4534cdb7d763af43.jpg"></article>]]></description>
+            <link>https://blog.malwarebytes.org/cybercrime/2016/05/tech-support-scammers-using-winlogon/</link>
+            <guid isPermaLink="false">8a057510-56bc-4dae-905a-f7ea3e014662</guid>
+            <pubDate>Fri, 26 Aug 2016 03:51:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to sign a document on your iPhone]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.geek.com/chips/dells-43-inch-4k-monitor-doubles-as-four-borderless-1080p-displays-1655882/</link>
             <guid isPermaLink="false">c72cd108-6ba4-4ed3-b763-9d6793077c16</guid>
             <pubDate>Fri, 26 Aug 2016 03:50:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to tell if you're infected with malware]]></title>
-            <description><![CDATA[<article><h1>How to tell if you're infected with malware</h1><p>Picture this: you start your computer and wait. And wait. And wait some more. When your desktop finally shows its face, things don't get any better. Your Internet is sluggish, your programs are taking forever to load, and your cursor is dragging 20 seconds behind your mouse.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/609dc0e63c07624107a6ff0c5860dc3a57a25aa0.jpg"></article>]]></description>
-            <link>https://blog.malwarebytes.org/101/2016/05/how-to-tell-if-youre-infected-with-malware/</link>
-            <guid isPermaLink="false">eb5cdbae-3745-477b-abcc-37ce34beb4d8</guid>
-            <pubDate>Fri, 26 Aug 2016 03:49:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
