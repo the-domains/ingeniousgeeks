@@ -4,7 +4,7 @@
         <description><![CDATA[Ingenious Geeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 03:50:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 03:50:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology News to give you the competitive edge]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ingeniousgeeks/04db906c-ccd7-49d1-9e13-dd26719186d3/index.html</link>
             <guid isPermaLink="false">04db906c-ccd7-49d1-9e13-dd26719186d3</guid>
             <pubDate>Fri, 26 Aug 2016 03:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft warns free Windows 10 upgrades will end, after that it's $119 | Microsoft | Geek.com]]></title>
+            <description><![CDATA[<article><h1>Microsoft warns free Windows 10 upgrades will end, after that it's $119 | Microsoft | Geek.com</h1><p>Quick, someone call the meteorologist that had her forecast interrupted by a Windows 10 nag screen! She's running out of time to get that upgrade done. Microsoft published a blog post today trumpeting the total number of Windows 10 installs so far.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffd52b92348592a6b50073c3ee16ebfe333c57ef.jpg"></article>]]></description>
+            <link>http://www.geek.com/microsoft/microsoft-warns-free-windows-10-upgrades-will-end-after-that-its-119-1654236/</link>
+            <guid isPermaLink="false">ea395e1a-8b75-472b-98d5-41a4b48e1448</guid>
+            <pubDate>Fri, 26 Aug 2016 03:50:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dell's 43-inch 4K monitor doubles as 4 borderless 1080p displays | Chips | Geek.com]]></title>
@@ -68,13 +75,6 @@
             <link>http://ios.wonderhowto.com/how-to/easy-trick-fixing-app-store-problems-your-iphone-0168478/</link>
             <guid isPermaLink="false">0d1d3794-a1e7-45ea-8c6d-b64b72e9cb4c</guid>
             <pubDate>Fri, 26 Aug 2016 03:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Mac OS X remediation offering and forensics capabilities for enterprise]]></title>
-            <description><![CDATA[<article><h1>New Mac OS X remediation offering and forensics capabilities for enterprise</h1><p>At Malwarebytes, our mission is to protect consumers and businesses from the most dangerous cyber threats. Today, we announced a new solution that will dramatically change endpoint detection and response (EDR) for Mac users - a growing target area for hackers. The fact that Mac users are safe from cyber threats is a common misconception.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/017fd8f7b7548297c59d0e0ca18a470da90a56a8.png"></article>]]></description>
-            <link>https://blog.malwarebytes.org/malwarebytes-news/2016/05/new-mac-os-x-remediation-offering-and-forensics-capabilities-for-enterprise/</link>
-            <guid isPermaLink="false">6681df6d-b230-497d-a4b1-73614762ebf5</guid>
-            <pubDate>Sat, 04 Jun 2016 04:53:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
