@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T03:43:46.737Z'
+datePublished: '2016-08-26T03:51:06.746Z'
 sourcePath: >-
   _posts/2016-06-04-the-easy-trick-to-fixing-app-store-problems-on-your-iphone.md
 isBasedOnUrl: >-
@@ -35,7 +35,7 @@ author:
     url: 'http://creator.wonderhowto.com/isaacsahag/'
     avatar: {}
 via: {}
-dateModified: '2016-08-26T03:43:46.348Z'
+dateModified: '2016-08-26T03:51:06.250Z'
 title: The Easy Trick to Fixing App Store Problems on Your iPhone
 app_links: []
 publisher:
