@@ -4,7 +4,7 @@
         <description><![CDATA[Ingenious Geeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 03:53:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 03:54:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology News to give you the competitive edge]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ingeniousgeeks/04db906c-ccd7-49d1-9e13-dd26719186d3/index.html</link>
             <guid isPermaLink="false">04db906c-ccd7-49d1-9e13-dd26719186d3</guid>
             <pubDate>Fri, 26 Aug 2016 03:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft's Outlook and Hotmail spam filters are currently broken]]></title>
+            <description><![CDATA[<article><h1>Microsoft's Outlook and Hotmail spam filters are currently broken</h1><p>If you're noticing an increased amount of spam email in your Outlook or Hotmail account this morning, you're not alone. Microsoft's spam filters for its Outlook.com email service have been experiencing issues over the past 12 hours, and the company is attempting to fix the problems. "Some users may be receiving excessive spam mail," reads a warning on Microsoft's Outlook.com service status site.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/decaa3b66fb9bec4c683ac289e81b38e3bf9cd09.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/6/1/11827310/microsoft-outlook-hotmail-email-spam-june-2016</link>
+            <guid isPermaLink="false">902974f5-4a66-4539-b524-12740c0889a1</guid>
+            <pubDate>Fri, 26 Aug 2016 03:53:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anti-virus pioneer John McAfee: Your phone may be snooping on you]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.geek.com/microsoft/microsoft-warns-free-windows-10-upgrades-will-end-after-that-its-119-1654236/</link>
             <guid isPermaLink="false">ea395e1a-8b75-472b-98d5-41a4b48e1448</guid>
             <pubDate>Fri, 26 Aug 2016 03:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middle class workers are losing their jobs to robots | News | Geek.com]]></title>
-            <description><![CDATA[<article><h1>Middle class workers are losing their jobs to robots | News | Geek.com</h1><p>It's a headline that is all too familiar these days. As the world of automation grows and workers are being replaced by robots in factories, farming, and even food service - the concern of what to do with this displaced workforce is becoming a leading topic among economists as well as world and business leaders.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20956be5c508c908baff3b1c72cbebf63beec8fc.jpg"></article>]]></description>
-            <link>http://www.geek.com/news/middle-class-workers-are-losing-their-jobs-to-robots-1654097/</link>
-            <guid isPermaLink="false">52b9efca-7cdf-4b01-9215-38ca6c8fc644</guid>
-            <pubDate>Fri, 26 Aug 2016 03:52:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
