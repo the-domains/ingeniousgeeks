@@ -4,7 +4,7 @@
         <description><![CDATA[Ingenious Geeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 03:54:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 03:54:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology News to give you the competitive edge]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ingeniousgeeks/04db906c-ccd7-49d1-9e13-dd26719186d3/index.html</link>
             <guid isPermaLink="false">04db906c-ccd7-49d1-9e13-dd26719186d3</guid>
             <pubDate>Fri, 26 Aug 2016 03:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This real-time translation earpiece may or may not help you woo foreign cuties]]></title>
+            <description><![CDATA[<article><h1>This real-time translation earpiece may or may not help you woo foreign cuties</h1><p>The buzziest new thingamajig making the viral rounds this week is the Pilot, a smart earpiece that can translate conversations between two people speaking different languages - in real time. Obviously, tech like this would be extremely useful for everything from hospitals to airports to mixed-language underground bunker situations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39dee455cd71c14a161e45c31803431c22472296.png"></article>]]></description>
+            <link>http://www.theverge.com/circuitbreaker/2016/5/19/11713428/pilot-smart-earpiece-translator-waverly-labs</link>
+            <guid isPermaLink="false">775cc598-185c-46b1-81d3-f8c760826f05</guid>
+            <pubDate>Fri, 26 Aug 2016 03:54:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Asus announces new Transformer 2-in-1s to rival Microsoft's Surface]]></title>
@@ -68,13 +75,6 @@
             <link>http://well.blogs.nytimes.com/2016/05/30/computer-vision-syndrome-affects-millions/?rref=collection%2Fsectioncollection%2Fhealth&amp;action=click&amp;contentCollection=health&amp;region=rank&amp;module=package&amp;version=highlights&amp;contentPlacement=1&amp;pgtype=sectionfront</link>
             <guid isPermaLink="false">8bf3189b-7543-4f5d-b4fe-0ec59eef2054</guid>
             <pubDate>Fri, 26 Aug 2016 03:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook Unveils DeepText: An AI With 'Near-Human' Level Of Language And Context Comprehension]]></title>
-            <description><![CDATA[<article><h1>Facebook Unveils DeepText: An AI With 'Near-Human' Level Of Language And Context Comprehension</h1><p>A lot of companies - Facebook, Google and Microsoft included - have, in recent years, begun working in earnest to incorporate "deep learning" algorithms into their software that are used to recognize objects in images, faces in photographs and spoken words.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dad321048d5227195a372c22ad38d130b5df13a.jpg"></article>]]></description>
-            <link>http://www.ibtimes.com/facebook-unveils-deeptext-ai-near-human-level-language-context-comprehension-2377090</link>
-            <guid isPermaLink="false">e84cbf24-a80b-4986-8017-39d97a176f80</guid>
-            <pubDate>Fri, 26 Aug 2016 03:52:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
