@@ -4,7 +4,7 @@
         <description><![CDATA[Ingenious Geeks]]></description>
         <link>https://thegrid.ai/ingeniousgeeks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 03:54:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 03:54:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ingeniousgeeks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology News to give you the competitive edge]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ingeniousgeeks/04db906c-ccd7-49d1-9e13-dd26719186d3/index.html</link>
             <guid isPermaLink="false">04db906c-ccd7-49d1-9e13-dd26719186d3</guid>
             <pubDate>Fri, 26 Aug 2016 03:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asus announces new Transformer 2-in-1s to rival Microsoft's Surface]]></title>
+            <description><![CDATA[<article><h1>Asus announces new Transformer 2-in-1s to rival Microsoft's Surface</h1><p>Asus is taking on Microsoft's latest Surface's tablets with its Transformer 3 and Transformer 3 Pro, a new generation of 2-in-1 devices, announced today at Computex Taipei. The Asus Transformer 3 Pro is a direct competitor for Microsoft's Surface Pro 4, and will be purchasable with an Intel i7 processor, 16GB of RAM, and a 1TB solid state drive.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a92b66f02c983324c2cb6a5a2c2bbbab2a2aac3.png"></article>]]></description>
+            <link>http://www.theverge.com/circuitbreaker/2016/5/30/11810064/asus-announces-new-transformer-2-in-1s-to-rival-microsofts-surface</link>
+            <guid isPermaLink="false">06759434-0b53-4448-9ed5-52aa52668f2b</guid>
+            <pubDate>Fri, 26 Aug 2016 03:54:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Microsoft's Outlook and Hotmail spam filters are currently broken]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.ibtimes.com/facebook-unveils-deeptext-ai-near-human-level-language-context-comprehension-2377090</link>
             <guid isPermaLink="false">e84cbf24-a80b-4986-8017-39d97a176f80</guid>
             <pubDate>Fri, 26 Aug 2016 03:52:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft warns free Windows 10 upgrades will end, after that it's $119 | Microsoft | Geek.com]]></title>
-            <description><![CDATA[<article><h1>Microsoft warns free Windows 10 upgrades will end, after that it's $119 | Microsoft | Geek.com</h1><p>Quick, someone call the meteorologist that had her forecast interrupted by a Windows 10 nag screen! She's running out of time to get that upgrade done. Microsoft published a blog post today trumpeting the total number of Windows 10 installs so far.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffd52b92348592a6b50073c3ee16ebfe333c57ef.jpg"></article>]]></description>
-            <link>http://www.geek.com/microsoft/microsoft-warns-free-windows-10-upgrades-will-end-after-that-its-119-1654236/</link>
-            <guid isPermaLink="false">ea395e1a-8b75-472b-98d5-41a4b48e1448</guid>
-            <pubDate>Fri, 26 Aug 2016 03:52:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
